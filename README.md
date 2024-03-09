@@ -23,7 +23,7 @@ This project is a Next.js application that provides user authentication, sign-up
 1. Create a Firebase project and set up Firebase Authentication.
 2. Obtain your Firebase configuration object.
 3. Create a `.env.local` file in the root directory of your project.
-4. Add your Firebase configuration variables to the `.env.local` file:
+4. Add your Firebase configuration variables to the `.env.local` file: I HAVE ATTACHED A ENV.TXT FILE WITH THE VARIABLES
 
    ```
    NEXT_PUBLIC_FIREBASE_API_KEY=your-api-key
